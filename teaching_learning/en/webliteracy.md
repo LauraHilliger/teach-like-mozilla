@@ -1,19 +1,16 @@
 # Web Literacy
 
 ##Take Action
-<div class="well example">
-	<ul>
-		<li><strong>DIY Learning Experience</strong>: Plan and create a lesson plan that embeds web competencies and skills with the learning goals you're most interested in teaching. Start by using [Paper Prototyping](https://stuff.webmaker.org/teach-assets/kits/paper/TeachingKitDesignCanvas.pdf) to organize your thoughts, then try remixing our [Teaching Kit Template](https://thimble.webmaker.org/project/10274/remix?ref=training) to help frame your lesson. Think about what activities you would run. You can search teach.mozilla.org for activities to try or make new activities with the help of the [Activity Template](https://thimble.webmaker.org/project/10286/remix?ref=training).
+
+* **DIY Learning Experience**: Plan and create a lesson plan that embeds web competencies and skills with the learning goals you're most interested in teaching. Start by using [Paper Prototyping](https://stuff.webmaker.org/teach-assets/kits/paper/TeachingKitDesignCanvas.pdf) to organize your thoughts, then try remixing our [Teaching Kit Template](https://thimble.webmaker.org/project/10274/remix?ref=training) to help frame your lesson. Think about what activities you would run. You can search teach.mozilla.org for activities to try or make new activities with the help of the [Activity Template](https://thimble.webmaker.org/project/10286/remix?ref=training).
 		
-		<p>Think about your plan and what kinds of Web skills learners will develop by completing your activity. Use the [Web Literacy Map](https://teach.mozilla.org/teach-like-mozilla/web-literacy/) as a guide and then make a note of which specific competencies your new resource introduces or deepens.</p>
+Think about your plan and what kinds of Web skills learners will develop by completing your activity. Use the [Web Literacy Map](https://teach.mozilla.org/teach-like-mozilla/web-literacy/) as a guide and then make a note of which specific competencies your new resource introduces or deepens.
 
-<p>Make note of which CC License you would like your kit to be under. For help with attributing images and other resources, <a href="http://discourse.webmakerprototypes.org/t/attributing-images/290">check out this thread</a> or take a course at the <a href="http://schoolofopen.org">School of Open</a>!</p>
+Make note of which CC License you would like your kit to be under. For help with attributing images and other resources, [check out this thread](http://discourse.webmakerprototypes.org/t/attributing-images/290) or take a course at the [School of Open](http://schoolofopen.org)
 
-<p>Publish and share your Teaching Kit with the [Discourse community](http://discourse.webmakerprototypes.org/category/training/building), and personally ask 2-3 people to review it for constructive feedback. Be sure to mention them with an @[name] when you post it.</p></li>
+Publish and share your Teaching Kit with the [Discourse community](http://discourse.webmakerprototypes.org/category/training/building), and personally ask 2-3 people to review it for constructive feedback. Be sure to mention them with an @[name] when you post it.
 
-		<li><strong>Curate and Reflect</strong>: Which resources did you consult for your lesson plan? Wikipedia pages? Stack Overflow documentation? Flickr? Collect your resources and make a [Storify](https://storify.com/) or a [Pinterest board](http://www.pinterest.com/) with your relevant quotes, pictures, documents. Share your curated resource and activities with the [Discourse community](http://discourse.webmakerprototypes.org/category/training/building) and ask people to contribute further resources on your idea. </li>
-	</ul>
-</div>
+* **Curate and Reflect**: Which resources did you consult for your lesson plan? Wikipedia pages? Stack Overflow documentation? Flickr? Collect your resources and make a [Storify](https://storify.com/) or a [Pinterest board](http://www.pinterest.com/) with your relevant quotes, pictures, documents. Share your curated resource and activities with the [Discourse community](http://discourse.webmakerprototypes.org/category/training/building) and ask people to contribute further resources on your idea.
 
 ## The Web is for *Making* (not just Consuming)
 
