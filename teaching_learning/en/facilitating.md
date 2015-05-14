@@ -7,9 +7,9 @@
 Publish and share your Teaching Kit with the [Discourse community](http://discourse.webmakerprototypes.org/category/training/building), and personally ask 2-3 people to review it for constructive feedback. Be sure to mention them with an @[name] when you post it.
 
 * **Playtest your activities** 
-..* **Gather some friends or family** and run through your activities with them. Ask them to be honest about their experience and take note of what goes wrong (and right!)
-..* **Collect the resources** your participants made or make a [Storify](http://storify.com) or a [Pinterest board](http://pinterest.com) with relevant quotes, pictures, documents.
-..* **Write and share a blog post about your playtesting** experiences or what it was like to facilitate this kind of learning. Post in the [Discourse community](https://discourse.webmaker.org/category/training/facilitating) and ask people to give constructive feedback on your teaching style.
+  * **Gather some friends or family** and run through your activities with them. Ask them to be honest about their experience and take note of what goes wrong (and right!)
+  * **Collect the resources** your participants made or make a [Storify](http://storify.com) or a [Pinterest board](http://pinterest.com) with relevant quotes, pictures, documents.
+  * **Write and share a blog post about your playtesting** experiences or what it was like to facilitate this kind of learning. Post in the [Discourse community](https://discourse.webmaker.org/category/training/facilitating) and ask people to give constructive feedback on your teaching style.
 
 ### Facilitating = Purpose + Play + Share
 
