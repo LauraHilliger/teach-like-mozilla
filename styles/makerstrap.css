@@ -6,3 +6,87 @@ figcaption {
     line-height: 1.5em;
     font-size:.9em;
 }
+
+table, tr, td{
+	border:none;
+}
+
+.btn {
+	display: inline-block;
+margin-bottom: 0px;
+font-weight: normal;
+text-align: center;
+vertical-align: middle;
+cursor: pointer;
+background-image: none;
+border: 1px solid transparent;
+white-space: nowrap;
+padding: 6px 12px;
+font-size: 14px;
+line-height: 1.42857;
+border-radius: 0px;
+-moz-user-select: none;
+}
+
+
+.literacy-color-credibility, .literacy-color-search, .literacy-color-composing{
+  color:white;
+}
+
+
+.literacy-color-credibility{
+  background-color: #FF5984;
+}
+.literacy-color-search{
+  background-color: #fe4040;
+}
+
+.literacy-color-composing{
+  background-color: #01bc85;
+}
+.literacy-color-practices{
+  background-color: #0097d6;
+}
+
+.literacy-color-webmechanics{
+  background-color: #FF6969;
+  color: white;
+}
+
+.literacy-color-navigation{
+  background-color: #FF4E1F;
+  color: white;
+}
+
+.literacy-color-remixing{
+  background-color: #00CEB8;
+  color: white;
+}
+
+.literacy-color-open-practices{
+  background-color: #0097d6;
+  color: white;
+}
+
+.literacy-color-sharing{
+  background-color: #739ab1;
+  color: white;
+}
+
+.literacy-color-community-participation{
+  background-color: #63cfea;
+  color: white;
+}
+
+.literacy-color-collaborating{
+  background-color: #506b7b;
+  color: white;
+}
+.literacy-color-privacy{
+  background-color: #00bad6;
+  color: white;
+}
+.literacy-color-security{
+  background-color: #ff004e;
+  color: white;
+}
