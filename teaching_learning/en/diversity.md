@@ -9,24 +9,19 @@ Encouraging Diversity
     
 ---
 
-Here's a quiz about Gitbook
+Here is the introduction for the quiz
 
-|                  | Good | Bad |
-| ---------------- | ---- | --- |
-| What is Gitbook? | ( )  | ( ) |
+This is Question 1:
+- [x] This is the proposition 1 (the correct one)
+- [ ] This is the proposition 2
 
-> Gitbook is good
+> This is a help message when the answer to question 1 is wrong
 
-What does Gitbook support?
-- [ ] Table-based questions with radio buttons
-- [ ] Table-based questions with checkboxes
-- [ ] Telepathy
-- [ ] List-based questions with checkboxes
-- [ ] List-based questions with radio buttons
-- [ ] Moon-on-a-stick
+This is Question 2:
+- [ ] This is the proposition 1
+- [x] This is the proposition 2 (correct)
+- [x] This is the proposition 3 (correct)
 
-> Gitbook supports table and list based quiz questions using either radio buttons or checkboxes.
->
-> Gitbook is not telepathic and does not give you the moon on a stick.
+> This is a help message when the answer to question 2 is wrong
 
 ---
