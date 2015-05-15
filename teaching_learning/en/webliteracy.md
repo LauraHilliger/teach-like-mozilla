@@ -34,7 +34,7 @@ The [Web Literacy Map][8] is a tool that can help you develop these competencies
 
 -- [Doug Belshaw](http://twitter.com/dajbelshaw)
 
-###To recap:
+###Recap:
 
 * The Web is a massive, shifting repository of human knowledge.
 * We should empower learners to engage this ecosystem *and* make the Web they want to use.

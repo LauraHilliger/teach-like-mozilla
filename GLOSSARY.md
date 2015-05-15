@@ -1,3 +1,6 @@
+# Club
+[Mozilla Clubs](https://teach.mozilla.org/clubs/) is a program to teach digital skills and web literacy. It focuses on regular, in-person learning tailored to the needs and opportunities of local communities. It harnesses the web as a unique public resource to learn and grow. 
+
 # Command Line Interface (CLI)
 A command line (or 'command prompt') is in many respects the opposite of a Graphical User Interface (GUI). The CLI is a terminal window on your device where you can interact with a computer at a more fundamental level than the GUI. An example is the difference between going to a website using a browser to see if it's working, versus sending a [Ping](#ping) via a command line to see if it's available.
 

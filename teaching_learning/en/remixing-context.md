@@ -59,3 +59,6 @@ We would love to know how you remix Club activities! Please share your ideas wit
 
 Note that Option 1 means your remix will be accessible by others on the web. Options 2 and 3 will create copies for you to edit *offline*. There are many editors you can use. One that is free and open source is [Atom](http://atom.io).
 
+##Recap
+* Remix has always been a key element in the creative process. It is a constructive collaborative activity, not a destructive one.
+* You can contextualize learning activities for your specific group of learners by creatively remixing curriculum to focus on specific topics or skills.
