@@ -1,0 +1,121 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', 'gitbook-cli', '-g' ]
+2 info using npm@1.3.8
+3 info using node@v0.10.18
+4 verbose cache add [ 'gitbook-cli', null ]
+5 verbose cache add name=undefined spec="gitbook-cli" args=["gitbook-cli",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'gitbook-cli',
+6 verbose parsed url   path: 'gitbook-cli',
+6 verbose parsed url   href: 'gitbook-cli' }
+7 silly lockFile bdc2bae0-gitbook-cli gitbook-cli
+8 verbose lock gitbook-cli /Users/Laura/.npm/bdc2bae0-gitbook-cli.lock
+9 silly lockFile bdc2bae0-gitbook-cli gitbook-cli
+10 silly lockFile bdc2bae0-gitbook-cli gitbook-cli
+11 verbose addNamed [ 'gitbook-cli', '' ]
+12 verbose addNamed [ null, '*' ]
+13 silly lockFile 3f216d15-gitbook-cli gitbook-cli@
+14 verbose lock gitbook-cli@ /Users/Laura/.npm/3f216d15-gitbook-cli.lock
+15 silly addNameRange { name: 'gitbook-cli', range: '*', hasData: false }
+16 verbose url raw gitbook-cli
+17 verbose url resolving [ 'https://registry.npmjs.org/', './gitbook-cli' ]
+18 verbose url resolved https://registry.npmjs.org/gitbook-cli
+19 info trying registry request attempt 1 at 16:20:12
+20 verbose etag "D4DZ3B9DVP2Z21QPVCD5VL1YW"
+21 http GET https://registry.npmjs.org/gitbook-cli
+22 http 304 https://registry.npmjs.org/gitbook-cli
+23 silly registry.get cb [ 304,
+23 silly registry.get   { date: 'Fri, 15 May 2015 14:20:13 GMT',
+23 silly registry.get     via: '1.1 varnish',
+23 silly registry.get     'cache-control': 'max-age=60',
+23 silly registry.get     etag: '"D4DZ3B9DVP2Z21QPVCD5VL1YW"',
+23 silly registry.get     age: '0',
+23 silly registry.get     connection: 'keep-alive',
+23 silly registry.get     'x-served-by': 'cache-fra1241-FRA',
+23 silly registry.get     'x-cache': 'HIT',
+23 silly registry.get     'x-cache-hits': '1',
+23 silly registry.get     'x-timer': 'S1431699613.151109,VS0,VE434',
+23 silly registry.get     vary: 'Accept' } ]
+24 verbose etag gitbook-cli from cache
+25 silly addNameRange number 2 { name: 'gitbook-cli', range: '*', hasData: true }
+26 silly addNameRange versions [ 'gitbook-cli',
+26 silly addNameRange   [ '0.1.0', '0.2.0', '0.3.0', '0.3.1', '0.3.2', '0.3.3' ] ]
+27 verbose addNamed [ 'gitbook-cli', '0.3.3' ]
+28 verbose addNamed [ '0.3.3', '0.3.3' ]
+29 silly lockFile 857bb838-gitbook-cli-0-3-3 gitbook-cli@0.3.3
+30 verbose lock gitbook-cli@0.3.3 /Users/Laura/.npm/857bb838-gitbook-cli-0-3-3.lock
+31 silly lockFile 857bb838-gitbook-cli-0-3-3 gitbook-cli@0.3.3
+32 silly lockFile 857bb838-gitbook-cli-0-3-3 gitbook-cli@0.3.3
+33 silly lockFile 3f216d15-gitbook-cli gitbook-cli@
+34 silly lockFile 3f216d15-gitbook-cli gitbook-cli@
+35 silly resolved [ { name: 'gitbook-cli',
+35 silly resolved     version: '0.3.3',
+35 silly resolved     homepage: 'https://www.gitbook.com',
+35 silly resolved     description: 'CLI to generate books using gitbook',
+35 silly resolved     main: 'lib/index.js',
+35 silly resolved     dependencies:
+35 silly resolved      { q: '1.0.1',
+35 silly resolved        lodash: '2.4.1',
+35 silly resolved        semver: '2.2.1',
+35 silly resolved        npmi: '0.1.1',
+35 silly resolved        tmp: '0.0.23',
+35 silly resolved        commander: '2.6.0',
+35 silly resolved        optimist: '0.6.1',
+35 silly resolved        'fs-extra': '0.15.0',
+35 silly resolved        'bash-color': '0.0.3',
+35 silly resolved        npm: '2.4.1' },
+35 silly resolved     repository:
+35 silly resolved      { type: 'git',
+35 silly resolved        url: 'https://github.com/GitbookIO/gitbook-cli.git' },
+35 silly resolved     author: { name: 'FriendCode Inc.', email: 'contact@gitbook.com' },
+35 silly resolved     license: 'Apache 2',
+35 silly resolved     bugs: { url: 'https://github.com/GitbookIO/gitbook-cli/issues' },
+35 silly resolved     bin: { gitbook: './bin/gitbook.js' },
+35 silly resolved     contributors: [ [Object], [Object] ],
+35 silly resolved     readme: '# gitbook-cli [![NPM version](https://badge.fury.io/js/gitbook-cli.svg)](http://badge.fury.io/js/gitbook-cli)\n\n> The GitBook command line interface.\n\nInstall this globally and you\'ll have access to the gitbook command anywhere on your system.\n\n```\n$ npm install -g gitbook-cli\n```\n\n**Note:** The job of the gitbook command is to load and run the version of GitBook you have specified in your book (or the latest one), irrespective of its version. The GitBook CLI only support versions `>=2.0.0` of GitBook.\n\n## How to install it?\n\n```\n$ npm install -g gitbook-cli\n```\n\n## How to use it?\n\n#### Build and Serve\n\nBuild a book in the curent directory using:\n\n```\n$ gitbook build\n```\n\nBuild a book in another directory:\n\n```\n$ gitbook build ./other_folder\n```\n\nBuild and serve the book:\n\n```\n$ gitbook serve ./\n```\n\nList all available commands using:\n```\n$ gitbook help\n```\n\n#### Specify a specific version\n\nBy default, GitBook CLI will read the gitbook version to use from the book configuration, but you can force a specific version using `--gitbook` option:\n\n```\n$ gitbook build ./mybook --gitbook=2.0.1\n```\n\nand list available commands in this version using:\n\n```\n$ gitbook help --gitbook=2.0.1\n```\n\n#### Manage versions\n\nList installed versions:\n\n```\n$ gitbook versions\n```\n\nList available versions:\n\n```\n$ gitbook versions:available\n```\n\nInstall a specific version:\n\n```\n$ gitbook versions:install 2.1.0\n```\n\nUninstall a specific version\n\n```\n$ gitbook versions:uninstall 2.0.1\n```\n\nUse a local folder as a GitBook version (for developement)\n\n```\n$ gitbook versions:link 2.0.1-alpha ./mygitbook\n```\n',
+35 silly resolved     readmeFilename: 'README.md',
+35 silly resolved     _id: 'gitbook-cli@0.3.3',
+35 silly resolved     _from: 'gitbook-cli@' } ]
+36 info install gitbook-cli@0.3.3 into /usr/local/lib
+37 info installOne gitbook-cli@0.3.3
+38 info /usr/local/lib/node_modules/gitbook-cli unbuild
+39 info preuninstall gitbook-cli@0.3.3
+40 info uninstall gitbook-cli@0.3.3
+41 verbose true,/usr/local/lib/node_modules,/usr/local/lib/node_modules unbuild gitbook-cli@0.3.3
+42 verbose /usr/local/bin,[object Object] binRoot
+43 info postuninstall gitbook-cli@0.3.3
+44 info /usr/local/lib/node_modules/gitbook-cli unbuild
+45 info preuninstall gitbook-cli@0.3.3
+46 info uninstall gitbook-cli@0.3.3
+47 verbose true,/usr/local/lib/node_modules,/usr/local/lib/node_modules unbuild gitbook-cli@0.3.3
+48 verbose /usr/local/bin,[object Object] binRoot
+49 info postuninstall gitbook-cli@0.3.3
+50 error error rolling back Error: EACCES, unlink '/usr/local/lib/node_modules/gitbook-cli'
+50 error error rolling back  gitbook-cli@0.3.3 { [Error: EACCES, unlink '/usr/local/lib/node_modules/gitbook-cli']
+50 error error rolling back   errno: 3,
+50 error error rolling back   code: 'EACCES',
+50 error error rolling back   path: '/usr/local/lib/node_modules/gitbook-cli' }
+51 error Error: EACCES, unlink '/usr/local/lib/node_modules/gitbook-cli'
+51 error  { [Error: EACCES, unlink '/usr/local/lib/node_modules/gitbook-cli']
+51 error   errno: 3,
+51 error   code: 'EACCES',
+51 error   path: '/usr/local/lib/node_modules/gitbook-cli' }
+52 error Please try running this command again as root/Administrator.
+53 error System Darwin 14.3.0
+54 error command "node" "/usr/local/bin/npm" "install" "gitbook-cli" "-g"
+55 error cwd /Users/Laura/mozilla/Curriculum/teach-like-mozilla
+56 error node -v v0.10.18
+57 error npm -v 1.3.8
+58 error path /usr/local/lib/node_modules/gitbook-cli
+59 error code EACCES
+60 error errno 3
+61 error stack Error: EACCES, unlink '/usr/local/lib/node_modules/gitbook-cli'
+62 verbose exit [ 3, true ]

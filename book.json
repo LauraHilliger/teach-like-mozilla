@@ -1,3 +1,13 @@
 {
-    "plugins": ["quizzes"]
+    "plugins": [
+    	"quizzes", "image-captions"
+    ],
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "_CAPTION_"
+        }
+    },
+    "styles": {
+        "website": "styles/makerstrap.css"
+    }
 }
