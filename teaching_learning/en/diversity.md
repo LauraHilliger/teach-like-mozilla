@@ -1,5 +1,7 @@
 #Encouraging Diversity
 
+<a href="https://www.flickr.com/photos/paul_clarke/15619915542" title="MozFest_24Oct_001 by Paul Clarke, on Flickr"><img src="https://c4.staticflickr.com/4/3932/15619915542_9e945ac145_b.jpg" width="100%" alt="Photo by Paul Clarke"></a>
+
 ##Take Action
 
 * **Practice telling your story.** This is one of the most effective ways to find collaborators. Tell your story to other Mozillians. How do they respond? How do you feel telling it? [Share your reflections.](http://discourse.webmaker.org/category/clubs/stories)
@@ -14,21 +16,19 @@
 
 ##Participate: Building our Culture
 
+<a href="https://www.flickr.com/photos/syafiqmazli/10554818453" title="Mozilla Festival 2013 by Muhammad Syafiq Mazli, on Flickr"><img src="https://c2.staticflickr.com/6/5514/10554818453_f3a52d133a_b.jpg" width="100%" alt="Photo by Muhammad Syafiq Mazli"></a>
+
 Co-design, networked learning, playtesting and feedback--we invite others to participate in everything we do. As leaders, it’s our responsibility to invite others to make and learn with us. We <3 codesign. Every great event and online activity is well-served by forming a team to bounce ideas off of, distribute responsibilities, and help promote. Working with others is fun and having a diverse community will make your programs, actions and efforts more impactful and sustainable. 
 
 >“Diversity and independence are important because the best decisions are the product of disagreement and contest, not consensus and >compromise.” — James Surowiecki, The Wisdom of Crowds
 
 Diversity isn’t easy, it requires cultivation and intentionality, it can be contentious and uncomfortable, but it is essential for success because it expands our experience and understanding. Diversity challenges us.
 
-<img src="../../assets/our-crew.jpg" title="our crew">
-
 Mozilla, P2PU, Wikipedia, YouTube, and Instructables are all "communities of practice". These organizations and businesses work hard to encourage participation and diversity in their cultures. As a network, we can solve large-scale, unique, complicated and new problems together. We can be socially creative, inspire each other and overcome obstacles.
 
 By inviting others to participate, they climb the first rung of the “ladder of engagement.” In our online communities, we all participate at different levels of passion and experience. Scholar Gerard Fischer, in his study of online communities, shows how participation evolves:
 
-<img src="https://cloud.githubusercontent.com/assets/1874003/2749916/ffbe14ea-c835-11e3-99b2-813113579c72.png" title="ladder of engagement">
-
-Source: Gerhard Fischer, [“Understanding, Fostering, and Supporting Cultures of Participation”](http://l3d.cs.colorado.edu/~gerhard/papers/2011/interactions-coverstory.pdf) 
+<a href="http://l3d.cs.colorado.edu/~gerhard/papers/2011/interactions-coverstory.pdf"><img src="https://cloud.githubusercontent.com/assets/1874003/2749916/ffbe14ea-c835-11e3-99b2-813113579c72.png" title="ladder of engagement from Gerhard Fischer" width="100%"></a>
 
 We all entered this community at different levels of engagement. For example, you might have started out as a learner at a Maker Party or you might have shared a remix and found it retweeted and shared again by the #TeachTheWeb team. As you increased the frequency and depth of your involvement with Mozilla, the Mozilla community increased its engagement with you.
 

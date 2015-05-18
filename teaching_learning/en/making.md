@@ -1,16 +1,12 @@
 #Making is Learning
 
-##Take Action
-* **Find your spirit topic**: Passion + Web + You = Learning! What are you personally passionate about? Is it existentialist philosophy, the cosmos, privacy, baking scones? [Remix a Comic](https://webmaker.makes.org/thimble/create-your-own-comic-a-starter-make) to explain the basics of your passion. Or, use the [Mighty Jupiter](https://chadsansing.makes.org/thimble/webmaker-planet) template to share basic facts about your area of expertise. Share your make(s) with the [community](http://discourse.webmaker.org/category/training/building) and **think about sharing your passion with Club participants**.
-* **Create a learner profile**: Ok, you're passionate about something, who else can you think of that is passionate about that same topic? Ask yourself:
-** How old are these people?
-** Do they have a lot of family obligations?
-** Do they have a particular career path?
-** What are their hobbies?
-** Who would benefit from a club on this topic?
-** What's the value proposition to these people?
+<a href="https://www.flickr.com/photos/newyouthcity/14531672240" title="2014 Hive NYC Summer Quest Maker Party by HiveLearningNYC, on Flickr"><img src="https://c4.staticflickr.com/4/3922/14531672240_6a1f74a713_b.jpg" width="100%" alt="Photo by HiveNYC. 2014 Summer Quest Maker Party"></a>
 
-[Make a profile for your ideal learner.](https://laura.makes.org/thimble/making-learner-profiles)
+##Take Action
+
+* **Find your spirit topic**: Passion + Web + You = Learning! What are you personally passionate about? Is it existentialist philosophy, the cosmos, privacy, baking scones? [Remix a Comic](https://webmaker.makes.org/thimble/create-your-own-comic-a-starter-make) to explain the basics of your passion. Or, use the [Mighty Jupiter](https://chadsansing.makes.org/thimble/webmaker-planet) template to share basic facts about your area of expertise. Share your make(s) with the [community](http://discourse.webmaker.org/category/training/building) and **think about sharing your passion with Club participants**.
+
+* **Create a learner profile**: Ok, you're passionate about something, who else can you think of that is passionate about that same topic?   [Make a profile for your ideal learner.](https://laura.makes.org/thimble/making-learner-profiles) Ask yourself things like *How old are my learners? Do they have a particular career path? What are their hobbies? What's the value proposition to them?*
 
 * **Connect Yourself to Connected Learning**: Identify an exercise in your teaching or engagement practice that you might redesign using Connected Learning principles. Walk us through how you “usually” do it, and then what your new experience would look like. If you’d like some further “inspiration” try hitting up the [DML Hub](http://dmlhub.net/research) or [Connected Learning](http://connectedlearning.tv/) site for some additional resources. [Post to Discourse](http://discourse.webmaker.org/category/training/exploring) and link to the resource that inspired you.
 
@@ -20,7 +16,7 @@ We cook, sew, construct, write, play music, tinker, paint, tell stories. We enga
 
 Throughout our process, we learn. It is through trial and error and the ever important failure that we learn what to do and what not to do. Learning to make something work involves discovery and wonder - it's a spiral of <a href="http://en.wikipedia.org/wiki/Motivation#Intrinsic_and_extrinsic_motivation">intrinsic motivation</a>; each new understanding unlocks new questions. We improve our skills as we create.
 
-In the Making as Learning Movement, networks like <a href="http://webmaker.org?ref=training">Webmaker</a>, the <a href="http://explorecreateshare.org">Hive Learning Networks</a>, <a href="https://twitter.com/make2learn">Make to Learn</a>, the <a href="http://digitalis.nwp.org">National Writing Project</a> and many, many more are integrating interested-based, hands on activities into their lesson plans and programming to focus more squarely on each learner's needs and building community in the process. These networks are experimenting with changing the power dynamic between teacher and learner, instead forming networks of peers, and using the idea of mentorship to level up competencies, both in the “learner” as well as the “teacher”.
+In the Making as Learning Movement, networks like <a href="http://teach.mozilla.org">Mozilla Learning</a>, the <a href="http://explorecreateshare.org">Hive Learning Networks</a>, <a href="https://twitter.com/make2learn">Make to Learn</a>, the <a href="http://digitalis.nwp.org">National Writing Project</a> and many, many more are integrating interested-based, hands on activities into their lesson plans and programming to focus more squarely on each learner's needs and building community in the process. These networks are experimenting with changing the power dynamic between teacher and learner, instead forming networks of peers, and using the idea of mentorship to level up competencies, both in the “learner” as well as the “teacher”.
 
 ##Connected Learning
 

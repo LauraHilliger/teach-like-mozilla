@@ -1,5 +1,7 @@
 # Sharing and Storytelling
 
+<a href="https://www.flickr.com/photos/98699488@N08/9249000595" title="Photo by Hive  Toronto, on Flickr"><img src="https://c4.staticflickr.com/8/7420/9249000595_5b3ce4e02e_b.jpg" width="100%" alt="Photo by Hive Toronto"></a>
+
 ## Take Action
 * **Craft your story.** Why is web literacy important to you? How will your local activities contribute to the change you want to see in the world? Why should people join you? Publish it in Discourse. [Examples can be found here.](http://discourse.webmaker.org/category/clubs/stories)
 * **Build a brand for your activities.** We invite you to use our branding, change the name and hack the materials. All of these things become part of your story.
@@ -15,16 +17,19 @@
 * **Make a Club Infosheet.** Write a blog post or design a special page that has everything in one place and is easy to share. [Check out this example.](https://juliahivenyc.makes.org/thimble/hive-nyc-cohort-guide)
 
 ## Grow: Methods + People + Involvement
+
+<a href="https://www.flickr.com/photos/mozillaeu/10519634256" title="MozFest by Mozilla in Europe, on Flickr"><img src="https://c2.staticflickr.com/6/5483/10519634256_2f44582928_b.jpg" width="100%" alt="Photo by Mozilla Europe"></a>
+
 Online and face-to-face maker communities amplify each other's work and the work of their participants. By sharing what we do in the offline world with our networks in the online world (and vice versa), we create resources, examples and case studies that can help us identify which methods work and how we, as a global community, can support one another.
 
 Until learning web skills, openness and learner-centric methods are inherent in our educational systems, until collaboration and connectivity are integral parts of our learning pathways, until we can recognize learning no matter where it happens, until people all over the world can read, write to and think critically about information in the global knowledge ecosystem that is the World Wide Web – our work is not done. We can't expect that someone else, some other organization, some other community to change the world for us. WE have to make commitments to ourselves and each other that we will spread web skills, the open ethos and maker culture in our communities in whatever ways we can.
 
 ## Continuing to #TeachTheWeb
-Think about all you've done in your #TeachTheWeb experience. Why are you a member of this community? Who have you connected with? Why is this interesting to you? What did you learn? Do you want to #TeachTheWeb to people in your local area? Do you want to support others by making content or spreading the word? How do you want to be involved in the spread of Web Literacy?
+Think about all you've done. Why are you a member of this community? Who have you connected with? Why is this interesting to you? What did you learn? Do you want to #TeachTheWeb to people in your local area? Do you want to support others by making content or spreading the word? How do you want to be involved in the spread of [Web Literacy](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)?
 
 Whether you run a [Maker Party](http://teach.mozilla.org/events) or create content for other party hosts to use, whether you talk about the importance of web skills to your networks or research applicable frameworks for teaching the web in public schools, whether you design assets, write blog posts, [jump in on curriculum issues](https://github.com/mozilla/learning-networks/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22help+wanted%22+label%3A%22help+wanted%22), donate food or space to people trying to #TeachTheWeb... There is value to whatever kind of contribution you are willing to make.
 
-We cannot #TeachTheWeb alone, the task is too great. There is an entire community of people that care about this work and are eager to keep you involved. Be inspired by this amazing community, and make your own commitment to #TeachTheWeb, then share your commitment with the rest of us.
+There is an entire community of people that care about this work and are eager to keep you involved. Be inspired by this amazing community, and make your own commitment to #TeachTheWeb, then share your commitment with the rest of us.
 
 ##Recap
 * Creating talking points and a story for how a club/initiative will add value to your peers will help you find collaborators.

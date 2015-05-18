@@ -9,9 +9,11 @@
    * [Making it Relevant](teaching_learning/en/remixing-context.md)
    * [Encouraging Diversity](teaching_learning/en/diversity.md)
 * [Designing for Global Engagement](designing_engagement/README.md)
-   * [Section 1](designing_engagement/en/section1.md)
    * [Facilitating](designing_engagement/en/facilitating.md)
+   * [Design Thinking](designing_engagement/en/design_thinking.md)
+   * [Prototyping, Playtesting & Iteration](designing_engagement/en/playtesting.md)
+   * [Funding and Support](designing_engagement/en/funding.md)
+   * [Cohesion and Encouraging Collaboration](designing_engagement/en/cohesion.md)
+
 * [Sustaining a Movement](sustaining_movement/README.md)
-   * [Section 1](sustaining_movement/en/section1.md)
-   * [Section 2](sustaining_movement/en/section2.md)
 
