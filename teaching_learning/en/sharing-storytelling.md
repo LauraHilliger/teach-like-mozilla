@@ -1,6 +1,6 @@
 # Sharing and Storytelling
 
-<a href="https://www.flickr.com/photos/98699488@N08/9249000595" title="Photo by Hive  Toronto, on Flickr"><img src="https://c4.staticflickr.com/8/7420/9249000595_5b3ce4e02e_b.jpg" width="100%" alt="Photo by Hive Toronto"></a>
+<a href="https://www.flickr.com/photos/98699488@N08/9249000595" title="Photo by Hive  Toronto, on Flickr"><img src="../../assets/sharing-storytelling.jpg" width="100%" alt="Photo by Hive Toronto"></a>
 
 ## Take Action
 * **Craft your story.** Why is web literacy important to you? How will your local activities contribute to the change you want to see in the world? Why should people join you? Publish it in Discourse. [Examples can be found here.](http://discourse.webmaker.org/category/clubs/stories)
@@ -18,7 +18,7 @@
 
 ## Grow: Methods + People + Involvement
 
-<a href="https://www.flickr.com/photos/mozillaeu/10519634256" title="MozFest by Mozilla in Europe, on Flickr"><img src="https://c2.staticflickr.com/6/5483/10519634256_2f44582928_b.jpg" width="100%" alt="Photo by Mozilla Europe"></a>
+<a href="https://www.flickr.com/photos/mozillaeu/10519634256" title="MozFest by Mozilla in Europe, on Flickr"><img src="../../assets/sharing-storytelling-2.jpg" width="100%" alt="Photo by Mozilla Europe"></a>
 
 Online and face-to-face maker communities amplify each other's work and the work of their participants. By sharing what we do in the offline world with our networks in the online world (and vice versa), we create resources, examples and case studies that can help us identify which methods work and how we, as a global community, can support one another.
 

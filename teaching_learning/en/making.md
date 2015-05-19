@@ -1,6 +1,6 @@
 #Making is Learning
 
-<a href="https://www.flickr.com/photos/newyouthcity/14531672240" title="2014 Hive NYC Summer Quest Maker Party by HiveLearningNYC, on Flickr"><img src="https://c4.staticflickr.com/4/3922/14531672240_6a1f74a713_b.jpg" width="100%" alt="Photo by HiveNYC. 2014 Summer Quest Maker Party"></a>
+<a href="https://www.flickr.com/photos/newyouthcity/14531672240" title="2014 Hive NYC Summer Quest Maker Party by HiveLearningNYC, on Flickr"><img src="../../assets/making.jpg" width="100%" alt="Photo by HiveNYC. 2014 Summer Quest Maker Party"></a>
 
 ##Take Action
 
@@ -24,7 +24,7 @@ Cultural anthropologists and researchers funded by the MacArthur Foundation's Di
 
 This model (see below) is based on a large body of research and includes Connected Learning principles and core values.
 
-<a href="http://clalliance.org/why-connected-learning/"><img alt="the Connected Learning Model" src="http://stuff.webmaker.org/teach-assets/teachtheweb/images/connectedlearninggraphic.png"/></a>
+<a href="http://clalliance.org/why-connected-learning/"><img alt="the Connected Learning Model" src="../../assets/connectedlearninggraphic.png"/></a>
 
 These principles state that education in the modern world needs to be:
 

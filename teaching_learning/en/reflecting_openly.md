@@ -1,6 +1,6 @@
 #Reflecting Openly
 
-<a href="https://www.flickr.com/photos/mozillaeu/8175258942" title="Mozilla Festival by Mozilla in Europe"><img src="https://c1.staticflickr.com/9/8200/8175258942_8de2896655.jpg" width="100%" alt="Photo by Mozilla Europe at #Mozfest"></a>
+<a href="https://www.flickr.com/photos/mozillaeu/8175258942" title="Mozilla Festival by Mozilla in Europe"><img src="../../assets/reflecting-openly.jpg" width="100%" alt="Photo by Mozilla Europe at #Mozfest"></a>
 
 ##Take Action
 

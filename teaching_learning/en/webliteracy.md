@@ -16,7 +16,7 @@ Publish and share your Teaching Kit with the [Discourse community](http://discou
 
 ## The Web is for *Making* (not just Consuming)
 
-<a href="https://twitter.com/yofiesetiawan"><img src="http://mozilla.github.io/webmaker-curriculum/images/html-puzzleboxes.jpg" width="100%" alt="Photo by Yofie Setiawan">
+<a href="https://twitter.com/yofiesetiawan"><img src="../../assets/webliteracy-2.jpg" width="100%" alt="Photo by Yofie Setiawan">
 
 > "Open Educational Resources (OER) are teaching, learning, and research materials in any medium that reside in the public domain or have been released under an open license that permits their free use and re-purposing by others."
 

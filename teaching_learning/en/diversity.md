@@ -1,6 +1,6 @@
 #Encouraging Diversity
 
-<a href="https://www.flickr.com/photos/paul_clarke/15619915542" title="MozFest_24Oct_001 by Paul Clarke, on Flickr"><img src="https://c4.staticflickr.com/4/3932/15619915542_9e945ac145_b.jpg" width="100%" alt="Photo by Paul Clarke"></a>
+<a href="https://www.flickr.com/photos/paul_clarke/15619915542" title="MozFest_24Oct_001 by Paul Clarke, on Flickr"><img src="../../assets/diversity.jpg" width="100%" alt="Photo by Paul Clarke"></a>
 
 ##Take Action
 
@@ -16,7 +16,7 @@
 
 ##Participate: Building our Culture
 
-<a href="https://www.flickr.com/photos/syafiqmazli/10554818453" title="Mozilla Festival 2013 by Muhammad Syafiq Mazli, on Flickr"><img src="https://c2.staticflickr.com/6/5514/10554818453_f3a52d133a_b.jpg" width="100%" alt="Photo by Muhammad Syafiq Mazli"></a>
+<a href="https://www.flickr.com/photos/syafiqmazli/10554818453" title="Mozilla Festival 2013 by Muhammad Syafiq Mazli, on Flickr"><img src="../../assets/our-crew.jpg" width="100%" alt="Photo by Muhammad Syafiq Mazli"></a>
 
 Co-design, networked learning, playtesting and feedback--we invite others to participate in everything we do. As leaders, it’s our responsibility to invite others to make and learn with us. We <3 codesign. Every great event and online activity is well-served by forming a team to bounce ideas off of, distribute responsibilities, and help promote. Working with others is fun and having a diverse community will make your programs, actions and efforts more impactful and sustainable. 
 

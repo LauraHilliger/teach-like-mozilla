@@ -1,6 +1,6 @@
 # Remixing for Context (Making it Relevant)
 
-<a href="https://www.flickr.com/photos/67338640@N04/15541403937" title="Mozfest 2014 by Billy Meinke, on Flickr"><img src="https://c4.staticflickr.com/8/7549/15541403937_1669a9dbb9_b.jpg" width="100%" alt="Photo by Billy Meinke"></a>
+<a href="https://www.flickr.com/photos/67338640@N04/15541403937" title="Mozfest 2014 by Billy Meinke, on Flickr"><img src="../../assets/making-it-relevant.jpg" width="100%" alt="Photo by Billy Meinke"></a>
 
 ##Take Action
 * **Decide who you want to serve.** If you've worked through the Making IS Learning module, you've already thought about the learners you ultimately want to benefit. What do learners need and what can you do for them? [Share your learner profile.](http://discourse.webmaker.org/category/training/building)
@@ -13,7 +13,7 @@ As we define in the Glossary, to 'remix' something is to take something that exi
 
 ## Why should I remix?
 
-<a href="https://www.flickr.com/photos/mozillaeu/10492759405" title="MozFest by Mozilla in Europe, on Flickr"><img src="https://c4.staticflickr.com/4/3810/10492759405_a994fa01c3_b.jpg" width="100%" alt="Photo by Mozilla Europe"></a>
+<a href="https://www.flickr.com/photos/mozillaeu/10492759405" title="MozFest by Mozilla in Europe, on Flickr"><img src="../../assets/making-it-relevant-2.jpg" width="100%" alt="Photo by Mozilla Europe"></a>
 
 Context is extremely important to learners, especially if they're showing up for something that isn't compulsory. An easy way to make something fun and exciting is to remix it in order to make it applicable to their everyday lives - or something they care deeply about.
 
