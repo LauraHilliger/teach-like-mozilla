@@ -1,5 +1,7 @@
 # Facilitating
 
+<a href="https://farm4.staticflickr.com/3717/10136300975_4f6e3cfa7d_c.jpg"><img src="../../assets/facilitating.png" alt="photo by Doug Belshaw"/></a>
+
 ##Take Action
 
 * **DIY Learning Experience** If you didn't plan and create a lesson plan that embeds web competencies and skills with the learning goals you're most interested in teaching in the Web Literacy module, you should do one now! Start by using [Paper Prototyping](https://stuff.webmaker.org/teach-assets/kits/paper/TeachingKitDesignCanvas.pdf) to organize your thoughts, then try remixing our [Teaching Kit Template](https://thimble.webmaker.org/project/10274/remix?ref=training) to help frame your lesson. Think about what activities you would run. You can search teach.mozilla.org for activities to try or make new activities with the help of the [Activity Template](https://thimble.webmaker.org/project/10286/remix?ref=training).
@@ -21,8 +23,6 @@ As a facilitator, you are designing an event driven by passion, peers and play. 
 * Share: how can we have learners present to each other in reflective share-outs during the event?
 
 Part of being a successful mentor, however, is leveling up your teaching skills and working with others across a wide variety of local and global spaces to meet learners where they are. We have cultural understandings of what teaching and learning are <em>supposed</em> to look like, but the open community is actively shifting the dynamics between teachers and learners to create learner-centric experiences. 
-
-<img src="https://farm4.staticflickr.com/3717/10136300975_4f6e3cfa7d_c.jpg" alt="photo by Doug Belshaw"/>
 
 Wherever you #TeachTheWeb, you want to plan and execute a <strong>purposeful</strong> event. A successful event might include some - or even a lot - of time for tinkering, but you need to approach the event as something more than an opportunity to tinker. Conversely, you don't want to spend your time talking at people. You need to be clear on what you'll teach, what your users will make, and how your event will empower participants to keep learning and making thereafter.
 
