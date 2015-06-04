@@ -1,0 +1,19 @@
+figure {
+    margin: 0px;
+    padding: 0px;
+}
+
+figcaption {
+    clear: left;
+    text-align: center;
+    font-style: italic;
+    line-height: 1.5em;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}

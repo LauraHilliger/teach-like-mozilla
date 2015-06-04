@@ -1,1 +1,16 @@
-{}
+{
+    "plugins": [
+    	"quizzes", "image-captions"
+    ],
+    "themes":[
+	    "webmaker"
+    ],
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "_CAPTION_"
+        }
+    },
+    "styles": {
+        "website": "styles/makerstrap.css"
+    }
+}
