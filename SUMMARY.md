@@ -9,7 +9,7 @@
    * [Remixing for Context](understanding/en/remixing-context.md)
    * [Encouraging Diversity](understanding/en/diversity.md)
 * [Facilitating](facilitating/README.md)
-   * [Facilitating](facilitating/en/facilitating.md)
+   * [Facilitating Participation](facilitating/en/facilitating.md)
    * [Design Thinking](facilitating/en/design_thinking.md)
    * [Prototyping, Playtesting & Iteration](facilitating/en/playtesting.md)
    * [Funding and Support](facilitating/en/funding.md)
