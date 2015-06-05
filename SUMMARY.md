@@ -11,7 +11,7 @@
 * [Facilitating](facilitating/README.md)
    * [Facilitating Participation](facilitating/en/facilitating.md)
    * [Design Thinking](facilitating/en/design_thinking.md)
-   * [Prototyping, Playtesting & Iteration](facilitating/en/playtesting.md)
+   * [Feedback and Playtesting](facilitating/en/playtesting.md)
    * [Funding and Support](facilitating/en/funding.md)
    * [Cohesion and Encouraging Collaboration](facilitating/en/cohesion.md)
 

@@ -7,6 +7,9 @@ A command line (or 'command prompt') is in many respects the opposite of a Graph
 # Creative Commons licenses
 Creative Commons licenses allow those creating digital artefacts to choose under what conditions their work can be remixed. There are different kinds of licenses, some more permissive and some more restrictive. An up-to-date list of these, along with a guided license chooser can be found at [creativecommons.org](http://creativecommons.org)
 
+# Design Constraints
+Limitations set around a particular activity, project or program to facilitate directed thinking, planning and creation.
+
 # Domain Name System (DNS)
 The Domain Name System, or DNS, is the way that **URLs** are translated into **IP addresses**. This allows words, easily understandable by humans, to be converted into numbers, which are more easily understood by computers. 
 

@@ -2,7 +2,7 @@
 
 <a href="https://twitter.com/yofiesetiawan"><img src="../../assets/design-thinking.jpg" alt="photo by Yofie Setiawan"/></a>
 
-##Take Action
+## Take Action
 
 ## Building Together: The Design Process
 
@@ -12,7 +12,7 @@ In "Design Challenges" learners select a problem, conduct research with users, p
 
 [IDEO](http://www.ideo.com/), the innovative design agency, has created a [Design Toolkit](http://www.designthinkingforeducators.com/design-examples/) for Educators which helps teachers co-design solutions with students:
 
-![screen shot 2014-03-29 at 10 51 52 am](https://cloud.githubusercontent.com/assets/1874003/2558623/be66bfb4-b751-11e3-8523-a249f0de7d2e.png)
+![Photo of the IDEO Toolkit](https://cloud.githubusercontent.com/assets/1874003/2558623/be66bfb4-b751-11e3-8523-a249f0de7d2e.png)
 
 For instance, "Design Thinking Hawaii" collaborated with students at Castle Hill High School in Hawaii to redesign and restructure the high school to solve issues with engagement and learning outcomes.
 
@@ -24,7 +24,11 @@ Through the design process, students learn from the community around them and wo
 
 ##Thinking "Out Loud"
 
-There are plenty of activities to get people activated and "thinking out loud". You can encourage brainstorming with [collaborative mindmapping](https://laura.makes.org/thimble/collaborative-mindmapping), [plan webby projects](https://mozteach.makes.org/thimble/designing-for-the-web-planning) with paper and markers, and teach the web in [offline and lo-fi environments](https://keyboardkat.makes.org/thimble/LTIxMDA3NTY0ODA=/lofi-nofi-teaching-kit). Encourage a free exchange of ideas, and you'll be surprised at the types of problems learners and makers can collaboratively solve.
+There are plenty of activities to get people activated and "thinking out loud". You can encourage brainstorming with [collaborative mindmapping](https://laura.makes.org/thimble/collaborative-mindmapping), [plan webby projects](https://mozteach.makes.org/thimble/designing-for-the-web-planning) with paper and markers, and teach the web in [offline and lo-fi environments](https://keyboardkat.makes.org/thimble/LTIxMDA3NTY0ODA=/lofi-nofi-teaching-kit). 
+
+Help guide your learners by giving them design constraints around a particular topic or theme, and then allow them to define problems within those constraints. Together, you can research, brainstorm and prototype possible solutions to the learner defined problems. Then, have learners gather feedback, iterate and expand on their work.
+
+Encourage a free exchange of ideas, and you'll be surprised at the types of problems learners and makers can collaboratively solve.
 
 ## Thinking with Physical Tools
 
@@ -34,9 +38,13 @@ When thinking about participatory learning, we prefer to mix and match all the l
 
 --[Peg Koedel, Casablanca Mediahaus](http://casablanca-dresden.de)
 
-<a href="https://github.com/edgar-b/Wackelturm"><img src="../../assets/thinking-physical.jpg" alt="Photo of the Casablanca "Wackelturm" game"></a>
+<a href="https://github.com/edgar-b/Wackelturm"><img src="../../assets/thinking-physical.jpg" alt="Photo by the Casablanca"></a>
 
-There are lots of ways to #TeachTheWeb, and the community can help you find engaging and interesting physical activities that have been tested in classrooms, libraries and events around the world. 
+Educators and technologists around the world are finding new ways to use participatory learning methods. They are publishing in the open ([download the Wackelturm templates!](https://github.com/edgar-b/Wackelturm)) and collaborating online to spread and improve these methods.
 
-Educators and technologists around the world are finding new ways to use participatory learning methods. They are publishing in the open ([download the Wackelturm templates!](https://github.com/edgar-b/Wackelturm)) and collaborating online to spread and improve these methods. 
+There are lots of ways to #TeachTheWeb, and the community can help you find engaging and interesting physical activities that have been tested in classrooms, libraries and events around the world.  
 
+##Recap
+* Encourage collaboration through project based activities
+* Help learners define problems to work on by giving them design constraints
+* Use haptic methods to encourage critical thought and planning

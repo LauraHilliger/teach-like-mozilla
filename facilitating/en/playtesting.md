@@ -1,5 +1,9 @@
-# Constructive Criticism
-<a href="https://www.flickr.com/photos/designandtechnologydepartment/4977671609" title="S2 Clock Project by Jordanhill School D&amp;T Dept, on Flickr"><img src="https://farm5.staticflickr.com/4127/4977671609_a9ed88ebe0_z.jpg" width="640" height="428" alt="S2 Clock Project"></a>
+# Feedback and Playtesting
+
+## Take Action
+
+## Constructive Criticism
+<a href="https://secure.flickr.com/photos/pandark/8180129793/in/faves-47833020@N03/"><img src="../../assets/feedback.jpg" alt="Photo by Pandark"></a>
 
 Feedback is the basis for open source culture. Pull requests, comments, sharing posts--these are all "gestures" of feedback. The conversations are how we build, nurture and maintain our networks. It's the glue of the Web. 
 

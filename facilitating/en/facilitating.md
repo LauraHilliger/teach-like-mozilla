@@ -2,7 +2,7 @@
 
 <a href="https://farm4.staticflickr.com/3717/10136300975_4f6e3cfa7d_c.jpg"><img src="../../assets/facilitating.png" alt="photo by Doug Belshaw"/></a>
 
-##Take Action
+## Take Action
 
 * **DIY Learning Experience** If you didn't plan and create a lesson plan that embeds web competencies and skills with the learning goals you're most interested in teaching in the Web Literacy module, you should do one now! Start by using [Paper Prototyping](https://stuff.webmaker.org/teach-assets/kits/paper/TeachingKitDesignCanvas.pdf) to organize your thoughts, then try remixing our [Teaching Kit Template](https://thimble.webmaker.org/project/10274/remix?ref=training) to help frame your lesson. Think about what activities you would run. You can search teach.mozilla.org for activities to try or make new activities with the help of the [Activity Template](https://thimble.webmaker.org/project/10286/remix?ref=training).
 
