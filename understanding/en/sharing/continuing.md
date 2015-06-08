@@ -1,0 +1,6 @@
+## We #TeachTheWeb.
+Think about all you've done. Why are you a member of this community? Who have you connected with? Why is this interesting to you? What did you learn? Do you want to #TeachTheWeb to people in your local area? Do you want to support others by making content or spreading the word? How do you want to be involved in the spread of [Web Literacy](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)?
+
+Whether you run a [Maker Party](http://teach.mozilla.org/events) or create content for other party hosts to use, whether you talk about the importance of web skills to your networks or research applicable frameworks for teaching the web in public schools, whether you design assets, write blog posts, [jump in on curriculum issues](https://github.com/mozilla/learning-networks/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22help+wanted%22+label%3A%22help+wanted%22), donate food or space to people trying to #TeachTheWeb... There is value to whatever kind of contribution you are willing to make.
+
+There is an entire community of people that care about this work and are eager to keep you involved. Be inspired by this amazing community, and make your own commitment to #TeachTheWeb, then share your commitment with the rest of us.

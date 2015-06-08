@@ -1,11 +1,21 @@
-# Open Tools
+## It's not just about the tools
+
+<a href="https://www.flickr.com/photos/dougbelshaw/15449554277" title="Hacking Games 4 Web Literacy at MozFest 2014 by Doug Belshaw, on Flickr"><img src="https://c4.staticflickr.com/4/3934/15449554277_875bea6f5d_b.jpg" width="100%" alt="Photo by Doug Belshaw, Hacking Games 4 Web Literacy"></a>
+
+Open is doesn't mean just using sharing tools like github or twitter -- it's a frame of mind for both practical market success and long-term mission success. It enables local decision-making and provides mechanisms for collaboration. Being open means that you are open to letting other people have an opinion about your work. It means you are empathetic towards those varying perspectives and that you strive to give everyone an equal voice. This can be challenging sometimes because depending on what you're working on, you might feel like there are "too many cooks in the kitchen". 
+
+Community management and conflict resolution go hand in hand with working openly, but as we've said before, Mozilla believes that open is our default setting. We strive to practice the tenets of open in all the things we do. The [How to Work Open article](http://openmatt.org/2011/04/06/how-to-work-open/) from [OpenMatt](http://twitter.com/openmatt) is another great starter read on *why you should work openly*.
+
+The open community uses tons of different tools to get things done. What follows are some details about the most popular tools used in the Mozilla community.
+
+## Open Tools
 
 Part of what makes the open community unique is a unique way of working. [Mozilla](http://mozilla.org) is committed to open not only at the level of technology, but also in terms of how we work  -- for decision-making, discussion, working on specific tasks and bugs, communications and community. It's a defining part of our culture and history. 
 
 The open community uses tons of different tools to get things done. The [How to Work Open article](http://openmatt.org/2011/04/06/how-to-work-open/) from [OpenMatt](http://twitter.com/openmatt) is a great starter read on *why you should work openly*, and this module details some of the most popular tools used in the Mozilla community.
 
 ## Etherpad
-<img src="../../assets/etherpad-gif.gif" width="100%">
+<img src="../../../assets/etherpad-gif.gif" width="100%">
 ### What it is
 Collaborative document writing/editing with chat
 ### Setup 
