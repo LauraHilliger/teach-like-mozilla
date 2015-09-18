@@ -66,7 +66,7 @@ A content management system that can do almost anything.
 ### Setup
 You can set everything up for free at http://wordpress.com
 ### Tips and Tricks
-Choose Appearance>Themes and search the thousands of themes to create a beautiful Wordpress site that works for you. Check out http://codex.wordpress.org/WordPress_Lessons to learn about wordpress.
+Choose Appearance>Themes and search the thousands of themes to create a beautiful Wordpress site that works for you. Check out http://codex.wordpress.org/WordPress_Lessons to learn about Wordpress. Udemy also has a new fully fledged [Wordpress tutorial](https://blog.udemy.com/wordpress-tutorial/).
 ### Watch out for Plugins when you've installed WP on your own server. 
 There are thousands of Wordpress plugins that allow you to do everything from setting up an online store to auto tweeting a message at a given time. Plugins are awesome, you should try them out, love them, use them. Just be aware that some plugins conflict with each other. If you install a plugin and your Wordpress starts acting funny, you’re probably experiencing this kind of conflict. Deactiviate plugins one by one and find the culprit! Wordpress is a robust framework. It’s fairly intuitive, but to harness the power of Wordpress, you should really make a commitment to learning it. Take your time, practice, learn together with your students, and know that there are TONS of tutorials out there.
 ###Ideas for Interactive Homework
