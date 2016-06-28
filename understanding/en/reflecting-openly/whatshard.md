@@ -1,6 +1,6 @@
 ## What's hard about open?
 
-The open culture and way of working faces new challenges and opportunities. Our community has grown enormously. The scope and complexity of Mozilla products has increased. Specific business requirements can clash with the goal of transparency and community participation. **As the open community grows exponentially, we strain our traditional culture and systems.**
+The open culture and way of working faces new challenges and opportunities. The open community has grown enormously. The scope and complexity of our work has increased. Specific business requirements can clash with the goal of transparency and community participation. **As the open community grows exponentially, we strain our traditional culture and systems.**
 
 Working open can be messy and difficult — but it’s still essential to our continued success.
 
